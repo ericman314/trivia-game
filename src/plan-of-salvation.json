@@ -1,0 +1,150 @@
+{
+  "rounds": [
+    {
+      "categories": [
+        {
+          "name": "Teachings of President Nelson",
+          "description": "Highlights from recent general conference talks by President Nelson",
+          "clues": [
+            {
+              "points": 100,
+              "clue": "In October 2018, President Nelson issued a \"correction\" to this name, which over many years had been given various nicknames, each omitting the sacred name of Jesus Christ.",
+              "response": "The Church of Jesus Christ of Latter-day Saints"
+            },
+            {
+              "points": 200,
+              "clue": "In October 2021, President Nelson described the work being done to strengthen the foundation of the Salt Lake City Temple. He then said, \"Whenever any kind of upheaval occurs in your life, the safest place to be spiritually is living inside 'these!'\"",
+              "response": "Your temple covenants."
+            },
+            {
+              "points": 300,
+              "clue": "In April 2018, President Nelson warned, \"In coming days, it will not be possible to survive spiritually without the guiding, directing, comforting, and constant influence of 'this'\". ",
+              "response": "The Holy Ghost. Also accept Spirit, Comforter, etc."
+            },
+            {
+              "points": 400,
+              "clue": "In April 2019, President Nelson taught that obedience to all the laws and ordinances of the gospel is required for us to gain this, the highest degree of celestial glory. He said, \"Salvation is an individual matter, but 'it' is a family matter.\"",
+              "response": "Exaltation. Also accept eternal life."
+            },
+            {
+              "points": 500,
+              "clue": "In October 2020, President Nelson encouraged us to let God be the strongest influence in our lives in a talk titled, \"Let God 'do this'\". It's one of the translations of the Hebrew word, Israel.",
+              "response": "Let God Prevail, or just Prevail."
+            }
+          ]
+        },
+        {
+          "name": "Plan of Salvation: Part 1",
+          "clues": [
+            {
+              "points": 100,
+              "clue": "God's whole purpose--his work and his glory--is to bring to pass our immortality and this.",
+              "response": "Eternal life."
+            },
+            {
+              "points": 100,
+              "clue": "One of God's greatest gifts to his children is called this, or the ability to choose.",
+              "response": "Agency or free agency."
+            },
+            {
+              "points": 100,
+              "clue": "When Adam and Eve ate the forbidden fruit, they were driven from the Garden of Eden and became subject to sin and physical death, in an event known as this.",
+              "response": "The Fall (of Adam and Eve)."
+            },
+            {
+              "points": 100,
+              "clue": "The two obstacles that prevent us from returning to God are physical death, and this. God cannot look on it with any degree of allowance.",
+              "response": "Sin. Also accept spiritual death."
+            },
+            {
+              "points": 100,
+              "clue": "This act, performed by Jesus Christ, included His suffering in the Garden of Gethsemane and His suffering and death on the cross, and ended with his resurrection.",
+              "response": "The Atonement (of Jesus Christ)."
+            }
+          ]
+        },
+        {
+          "name": "Plan of Salvation: Part 2",
+          "clues": [
+            {
+              "points": 100,
+              "clue": "It is the reuniting of body and spirit after death, and is a free gift to all people.",
+              "response": "Resurrection. Also accept immortality."
+            },
+            {
+              "points": 100,
+              "clue": "After death our spirits go to this place. Those who chose to obey God in this life will live in a state of happiness, peace, and rest.",
+              "response": "Spirit world. Also accept spirit paradise."
+            },
+            {
+              "points": 100,
+              "clue": "Those who have faith in Jesus Christ, repent, and receive the ordinances of the gospel and keep the associated covenants will live here after the resurrection and judgment.",
+              "response": "Celestial Kingdom."
+            },
+            {
+              "points": 100,
+              "clue": "Of the three kingdoms of glory, it is compared to the glory of the moon: brighter than the stars, but not as bright as the sun.",
+              "response": "Terrestrial Kingdom."
+            },
+            {
+              "points": 100,
+              "clue": "This individual was the first to be resurrected.",
+              "response": "Jesus Christ."
+            }
+          ]
+        },
+        {
+          "name": "Notable Missionaries",
+          "clues": [
+            {
+              "points": 100,
+              "clue": "From on top of the city wall, this Lamanite foretold the birth of Jesus Christ. The Lord protected him from the stones and arrows of the Nephites.",
+              "response": "Samuel the Lamanite"
+            },
+            {
+              "points": 100,
+              "clue": "This Book of Mormon missionary taught and converted King Lamoni--you could say his methods were disarming.",
+              "response": "Ammon"
+            },
+            {
+              "points": 100,
+              "clue": "As recorded in the book of Acts in the New Testament, this Apostle's ministry began with a vision of Jesus Christ on the way to Damascus. His writings include an impressive 14 epistles.",
+              "response": "Paul"
+            },
+            {
+              "points": 100,
+              "clue": "The night before he was martyred in Carthage Jail, Joseph Smith prophesied that this man's life would be spared--and that he would serve as a missionary in his native land of Wales. Four years later, his converts numbered nearly four thousand.",
+              "response": "Dan Jones",
+              "picture": "DanJones.jpg"
+            },
+            {
+              "points": 100,
+              "clue": "This younger brother of Joseph and Hyrum Smith was the Church's first missionary. Although he had no baptisms, one of the copies of the Book of Mormon he gave away led to Brigham Young joining the church.",
+              "response": "Samuel Smith"
+            }
+          ]
+        },
+        {
+          "name": "Foreign Languages",
+          "clues": [
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "name": "Other",
+          "clues": [
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        }
+      ]
+    }
+  ]
+}

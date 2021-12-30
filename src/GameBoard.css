@@ -1,0 +1,36 @@
+.GameBoard {
+  display: grid;
+  grid-auto-flow: column;
+  height: 100%;
+  align-items: stretch;
+}
+
+.PointValue, .CategoryName {
+  border: solid 0.5vh black;
+  display: flex;
+  align-items: center;
+  text-align: center;
+  justify-content: center;
+  padding: 1vh;
+}
+
+.PointValue {
+  font-size: 8vh;
+  color: yellow;
+  text-shadow: 0.5vh 0.5vh 0px #000000;
+}
+
+.CategoryName {
+  font-size: 3vh;
+  text-shadow: 0.3vh 0.3vh 0px #000000;
+}
+
+.Clue {
+  box-sizing: border-box;
+  display: flex;
+  align-items: center;
+  height: 100%;
+  font-size: 8vh;
+  text-shadow: 0.5vh 0.5vh 0px #000000;
+  padding: 10vh;
+}
