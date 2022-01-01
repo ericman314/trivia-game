@@ -14,13 +14,13 @@ export function GameBoard({ game, roundIndex, onSelect }) {
     <div className='GameBoard' style={style}>
       {game.rounds[roundIndex].categories.map(category => {
         return <>
-          <div className='CategoryName'>{category.name}</div>
-          {category.clues.map(clue => {
+          <div key={category.name} className='CategoryName'>{category.name}</div>
+          {category.clues.map((clue, index) => {
             if (clue.hidden) {
-              return <div className='PointValue' />
+              return <div key={index} className='PointValue' />
             } else {
               return (
-                <div className='PointValue' onClick={() => onSelect(clue)}>
+                <div key={index} className='PointValue' onClick={() => onSelect(clue)}>
                   {clue.points}
                 </div>
               )

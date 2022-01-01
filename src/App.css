@@ -4,6 +4,7 @@
 
 html, body {
   background: rgb(0, 0, 199);
+  margin: 0 0;
   height: 100%;
   text-transform: uppercase;
   color: white;
@@ -49,4 +50,59 @@ html, body {
   to {
     transform: rotate(360deg);
   }
+}
+
+button {
+  font-size: 36px;
+  background: rgb(0, 0, 163);
+  color: white;
+}
+
+button:hover {
+  cursor: pointer;
+  background: rgb(0, 0, 255)
+}
+
+input {
+  font-size: 36px;
+  background: transparent;
+  color: white;
+}
+
+.halfSize {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  border: 2vh solid black;
+  transform: scale(0.5);
+  transform-origin: 50% 0;
+}
+
+.halfSizeGutter {
+  width: 50%;
+  height: 50%;
+}
+
+.scores {
+  display: flex;
+  justify-content: center;
+}
+
+.scores>div {
+  margin: 16px;
+  text-align: center;
+  font-size: 36px;
+}
+
+.yellow {
+  color: yellow;
+}
+
+.adjustScoreButton {
+  display: block;
+  width: 150px;
+}
+
+.adjustScoreButton.selected {
+  background: white;
 }
