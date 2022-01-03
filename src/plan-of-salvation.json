@@ -125,21 +125,53 @@
           ]
         },
         {
-          "name": "Foreign Languages",
+          "name": "Foreign Cuisine and Language",
           "clues": [
-            {},
-            {},
-            {},
-            {},
-            {}
+            {
+              "points": 100,
+              "clue": "This traditional Japanese dish is made from vinegared rice and served with a variety of vegetables and seafood (often raw). The California Roll is one of the most popular varieties in the US.",
+              "response": "Sushi. Also accept norimaki, nori roll, makizushi."
+            },
+            {
+              "points": 100,
+              "clue": "It's how to say, Jesus Christ, in Italian.",
+              "response": "Gesù Cristo"
+            },
+            {
+              "points": 100,
+              "clue": "It's how to say, \"Good Day\" in Spanish.",
+              "response": "Buenos días"
+            },
+            {
+              "points": 100,
+              "clue": "Inspired by the colors of the Italian flag, the Margherita Pizza is prepared with tomatoes, mozzarella, and this fresh herb",
+              "response": "Basil"
+            },
+            {
+              "points": 100,
+              "clue": "It's how to say Hello in Japanese.",
+              "response": "Kon'nichiwa こんにちは"
+            }
           ]
         },
         {
-          "name": "Other",
+          "name": "Mission Trivia",
           "clues": [
-            {},
-            {},
-            {},
+            {
+              "points": 100,
+              "clue": "At the beginning of their service, Elders and Sisters spend 3 to 12 weeks at one of these, where they receive gospel and language instruction. (Three words.)",
+              "response": "Missionary Training Center"
+            },
+            {
+              "points": 100,
+              "clue": "This book is the Church's \"guide to missionary service,\" and is intended to help missionaries be better-prepared, more spiritually mature, and more persuasive teachers.",
+              "response": "Preach my Gospel"
+            },
+            {
+              "points": 100,
+              "clue": "In October 2012, President Monson announced a change to this qualification for who could serve a mission. Over the next year, the number of full-time missionaries increased by 41%.",
+              "resonse": "Age, or changing the age qualification."
+            },
             {},
             {}
           ]
