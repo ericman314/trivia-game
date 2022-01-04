@@ -34,3 +34,16 @@
   text-shadow: 0.5vh 0.5vh 0px #000000;
   padding: 10vh;
 }
+
+.Clue>div {
+  width: 100%;
+}
+
+.CluePicture {
+  box-sizing: border-box;
+  display: flex;
+  align-items: center;
+  height: 100%;
+  font-size: 8vh;
+  justify-content: center;
+}

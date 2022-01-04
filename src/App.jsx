@@ -3,8 +3,6 @@ import './App.css'
 import { usePersistantReducer } from './usePersistantReducer'
 import reducer from './reducer'
 import game from './plan-of-salvation.json'
-import { GameBoard } from './GameBoard'
-import { Clue } from './Clue'
 import { PlayerView } from './PlayerView'
 import { Scores } from './Scores'
 
@@ -23,16 +21,17 @@ function App() {
   //   dispatch({ type: 'NEWGAME', game })
   // }, [])
 
-  // for (let round of game.rounds) {
-  //   for (let category of round.categories) {
-  //     console.log(`Category: ${category.name} ${category.description ? `(${category.description})` : ''}`)
-  //     for (let clue of category.clues) {
-  //       console.log(`Question: ${clue.clue}`)
-  //       console.log(`Answer: ${clue.response}`)
-  //       console.log('')
-  //     }
-  //   }
-  // }
+  for (let round of game.rounds) {
+    for (let category of round.categories) {
+      console.log(`Category: ${category.name} ${category.description ? `(${category.description})` : ''}`)
+      for (let clue of category.clues) {
+        console.log(`Points: ${clue.points}`)
+        console.log(`Question: ${clue.clue}`)
+        console.log(`Answer: ${clue.response}`)
+        console.log('')
+      }
+    }
+  }
 
   let roundIndex, categoryIndex, clueIndex
   if (state.selectedClue) {
@@ -96,6 +95,7 @@ function App() {
         <br />
         {state.selectedClue ? <>
           <p>{state.game.rounds[roundIndex].categories[categoryIndex].name}, {state.selectedClue.points}</p>
+          <p>{state.selectedClue.clue}</p>
           <p style={{ border: '2px solid black', display: 'inline-block', padding: 8 }}>Correct response: <b>{state.selectedClue.response}</b></p>
           <p>Adjust scores</p>
           <div className='scores'>

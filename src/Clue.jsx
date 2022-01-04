@@ -2,8 +2,13 @@ import React from 'react'
 
 export function Clue({ clue, onDeselect }) {
   return (
-    <div className='Clue' >
-      {clue.clue}
-    </div>
+    clue.picture ?
+      <div className='CluePicture'>
+        <img src={clue.picture} />
+      </div>
+      :
+      <div className='Clue' >
+        <div>{clue.clue}</div>
+      </div>
   )
 }

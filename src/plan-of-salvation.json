@@ -38,58 +38,58 @@
           "clues": [
             {
               "points": 100,
-              "clue": "God's whole purpose--his work and his glory--is to bring to pass our immortality and this.",
-              "response": "Eternal life."
-            },
-            {
-              "points": 100,
-              "clue": "One of God's greatest gifts to his children is called this, or the ability to choose.",
-              "response": "Agency or free agency."
-            },
-            {
-              "points": 100,
-              "clue": "When Adam and Eve ate the forbidden fruit, they were driven from the Garden of Eden and became subject to sin and physical death, in an event known as this.",
-              "response": "The Fall (of Adam and Eve)."
-            },
-            {
-              "points": 100,
               "clue": "The two obstacles that prevent us from returning to God are physical death, and this. God cannot look on it with any degree of allowance.",
               "response": "Sin. Also accept spiritual death."
             },
             {
-              "points": 100,
+              "points": 200,
               "clue": "This act, performed by Jesus Christ, included His suffering in the Garden of Gethsemane and His suffering and death on the cross, and ended with his resurrection.",
               "response": "The Atonement (of Jesus Christ)."
+            },
+            {
+              "points": 300,
+              "clue": "God's whole purpose--his work and his glory--is to bring to pass our immortality and this.",
+              "response": "Eternal life."
+            },
+            {
+              "points": 400,
+              "clue": "One of God's greatest gifts to his children is called this, or the ability to choose.",
+              "response": "Agency or free agency."
+            },
+            {
+              "points": 500,
+              "clue": "When Adam and Eve ate the forbidden fruit, they were driven from the Garden of Eden and became subject to sin and physical death, in an event known as this.",
+              "response": "The Fall (of Adam and Eve)."
             }
           ]
         },
         {
           "name": "Plan of Salvation: Part 2",
           "clues": [
-            {
-              "points": 100,
+          {
+            "points": 100,
+            "clue": "Those who have faith in Jesus Christ, repent, and receive the ordinances of the gospel and keep the associated covenants will live here after the resurrection and judgment.",
+            "response": "Celestial Kingdom."
+          },
+          {
+            "points": 200,
+            "clue": "This individual was the first to be resurrected.",
+            "response": "Jesus Christ."
+          },
+          {
+            "points": 300,
               "clue": "It is the reuniting of body and spirit after death, and is a free gift to all people.",
               "response": "Resurrection. Also accept immortality."
             },
             {
-              "points": 100,
+              "points": 400,
               "clue": "After death our spirits go to this place. Those who chose to obey God in this life will live in a state of happiness, peace, and rest.",
               "response": "Spirit world. Also accept spirit paradise."
             },
             {
-              "points": 100,
-              "clue": "Those who have faith in Jesus Christ, repent, and receive the ordinances of the gospel and keep the associated covenants will live here after the resurrection and judgment.",
-              "response": "Celestial Kingdom."
-            },
-            {
-              "points": 100,
+              "points": 500,
               "clue": "Of the three kingdoms of glory, it is compared to the glory of the moon: brighter than the stars, but not as bright as the sun.",
               "response": "Terrestrial Kingdom."
-            },
-            {
-              "points": 100,
-              "clue": "This individual was the first to be resurrected.",
-              "response": "Jesus Christ."
             }
           ]
         },
@@ -102,55 +102,58 @@
               "response": "Samuel the Lamanite"
             },
             {
-              "points": 100,
+              "points": 200,
               "clue": "This Book of Mormon missionary taught and converted King Lamoni--you could say his methods were disarming.",
               "response": "Ammon"
             },
             {
-              "points": 100,
+              "points": 300,
               "clue": "As recorded in the book of Acts in the New Testament, this Apostle's ministry began with a vision of Jesus Christ on the way to Damascus. His writings include an impressive 14 epistles.",
               "response": "Paul"
             },
             {
-              "points": 100,
-              "clue": "The night before he was martyred in Carthage Jail, Joseph Smith prophesied that this man's life would be spared--and that he would serve as a missionary in his native land of Wales. Four years later, his converts numbered nearly four thousand.",
+              "points": 400,
+              "clue": "Joseph Smith prophesied that this man would serve as a missionary in his native land of Wales. Four years later, his converts numbered nearly four thousand.",
               "response": "Dan Jones",
               "picture": "DanJones.jpg"
             },
             {
-              "points": 100,
+              "points": 500,
               "clue": "This younger brother of Joseph and Hyrum Smith was the Church's first missionary. Although he had no baptisms, one of the copies of the Book of Mormon he gave away led to Brigham Young joining the church.",
-              "response": "Samuel Smith"
+              "response": "Samuel Smith",
+              "picture": "SamuelSmith.jpg"
             }
           ]
         },
         {
-          "name": "Foreign Cuisine and Language",
+          "name": "Foreign Language and Cuisine",
           "clues": [
-            {
-              "points": 100,
-              "clue": "This traditional Japanese dish is made from vinegared rice and served with a variety of vegetables and seafood (often raw). The California Roll is one of the most popular varieties in the US.",
-              "response": "Sushi. Also accept norimaki, nori roll, makizushi."
-            },
-            {
-              "points": 100,
-              "clue": "It's how to say, Jesus Christ, in Italian.",
-              "response": "Gesù Cristo"
-            },
             {
               "points": 100,
               "clue": "It's how to say, \"Good Day\" in Spanish.",
               "response": "Buenos días"
             },
             {
-              "points": 100,
-              "clue": "Inspired by the colors of the Italian flag, the Margherita Pizza is prepared with tomatoes, mozzarella, and this fresh herb",
-              "response": "Basil"
+              "points": 200,
+              "clue": "This traditional Japanese dish is made from vinegared rice and served with a variety of vegetables and seafood (often raw). The California Roll is one of the most popular varieties in the US.",
+              "response": "Sushi. Also accept norimaki, nori roll, makizushi.",
+              "picture": "Sushi_platter.jpg"
             },
             {
-              "points": 100,
+              "points": 300,
               "clue": "It's how to say Hello in Japanese.",
               "response": "Kon'nichiwa こんにちは"
+            },
+            {
+              "points": 400,
+              "clue": "It's how to say, \"Jesus Christ\", in Italian.",
+              "response": "Gesù Cristo"
+            },
+            {
+              "points": 500,
+              "clue": "Inspired by the colors of the Italian flag, the Pizza Margherita is prepared with tomatoes, mozzarella, and this fresh herb",
+              "response": "Basil",
+              "picture": "Pizza.jpg"
             }
           ]
         },
@@ -159,21 +162,29 @@
           "clues": [
             {
               "points": 100,
+              "clue": "Elders serve full-time missions for two years, but sisters serve for this many months.",
+              "response": "18 months"
+            },
+            {
+              "points": 200,
               "clue": "At the beginning of their service, Elders and Sisters spend 3 to 12 weeks at one of these, where they receive gospel and language instruction. (Three words.)",
               "response": "Missionary Training Center"
             },
             {
-              "points": 100,
+              "points": 300,
               "clue": "This book is the Church's \"guide to missionary service,\" and is intended to help missionaries be better-prepared, more spiritually mature, and more persuasive teachers.",
               "response": "Preach my Gospel"
             },
             {
-              "points": 100,
-              "clue": "In October 2012, President Monson announced a change to this qualification for who could serve a mission. Over the next year, the number of full-time missionaries increased by 41%.",
-              "resonse": "Age, or changing the age qualification."
+              "points": 400,
+              "clue": "In October 2012, President Monson announced a change to this qualification for missionaries. The next year, the number of full-time missionaries increased by 41%.",
+              "response": "Age, or changing the age qualification."
             },
-            {},
-            {}
+            {
+              "points": 500,
+              "clue": "Either one of the names of the two elders serving in our ward right now.",
+              "response": "Elder Growald or Elder Vonforell"
+            }
           ]
         }
       ]
