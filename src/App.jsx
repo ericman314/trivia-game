@@ -9,6 +9,7 @@ import { Scores } from './Scores'
 function App() {
 
   const [state, dispatch] = usePersistantReducer(reducer, {
+    players: []
   })
 
   const [view, setView] = React.useState(null)
